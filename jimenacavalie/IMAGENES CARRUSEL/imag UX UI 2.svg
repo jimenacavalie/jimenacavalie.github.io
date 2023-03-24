@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1728 791" style="enable-background:new 0 0 1728 791;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.54;fill:url(#SVGID_1_);enable-background:new    ;}
+	.st1{opacity:0.32;fill:#606060;enable-background:new    ;}
+	.st2{fill:#363636;}
+	.st3{enable-background:new    ;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;}
+	.st6{font-family:'Roboto-Light';}
+	.st7{font-size:22px;}
+	.st8{letter-spacing:5;}
+	.st9{letter-spacing:3;}
+	.st10{letter-spacing:2;}
+	.st11{font-size:21px;}
+	.st12{letter-spacing:1;}
+	.st13{letter-spacing:9;}
+	.st14{letter-spacing:6;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="308.8416" y1="-70.8769" x2="1194.7808" y2="672.983" gradientTransform="matrix(1 0 0 -1 0 792)">
+	<stop  offset="0.178" style="stop-color:#EB9342"/>
+	<stop  offset="0.2461" style="stop-color:#DE9544"/>
+	<stop  offset="0.3735" style="stop-color:#BA9B48"/>
+	<stop  offset="0.5449" style="stop-color:#81A44E"/>
+	<stop  offset="0.71" style="stop-color:#44AE55"/>
+</linearGradient>
+<path class="st0" d="M1508.1,50.5V743c0,21.1-17.1,38.3-38.3,38.3H258.2c-21.1,0-38.3-17.1-38.3-38.3V50.5
+	c0-21.1,17.1-38.3,38.3-38.3h1211.6c1.8,0,3.6,0.1,5.3,0.4C1493.8,15.2,1508.1,31.1,1508.1,50.5z"/>
+<path class="st1" d="M1432.6,751.4H295.4c-20.1,0-36.4-16.3-36.4-36.4V93c0-20.1,16.3-36.4,36.4-36.4h1137.1
+	c20.1,0,36.4,16.3,36.4,36.4v622C1469,735.1,1452.7,751.4,1432.6,751.4z"/>
+<g>
+	<polygon class="st2" points="1630,412.5 1630,383.1 1655.5,397.8 1681,412.5 1655.5,427.2 1630,441.9 	"/>
+</g>
+<g>
+	<polygon class="st2" points="98,412.5 98,441.9 72.5,427.2 47,412.5 72.5,397.8 98,383.1 	"/>
+</g>
+<g class="st3">
+	<path class="st4" d="M729.8,103.8h13.8c4.6,0,8.1,1.2,10.5,3.7c2.3,2.5,3.5,6.1,3.5,11v5.9c0,4.8-1.2,8.5-3.5,11
+		c-2.3,2.5-5.8,3.7-10.5,3.7h-4.4v24.2h-9.4V103.8z M743.6,130.6c1.5,0,2.7-0.4,3.4-1.3c0.8-0.8,1.1-2.3,1.1-4.3v-7.1
+		c0-2-0.4-3.5-1.1-4.3c-0.8-0.9-1.9-1.3-3.4-1.3h-4.4v18.3H743.6z"/>
+	<path class="st4" d="M762.6,103.8h13.9c4.8,0,8.3,1.1,10.5,3.4c2.2,2.2,3.3,5.7,3.3,10.3v3.7c0,6.2-2,10.1-6.1,11.7v0.2
+		c2.3,0.7,3.9,2.1,4.8,4.2c0.9,2.1,1.4,4.9,1.4,8.4v10.5c0,1.7,0.1,3.1,0.2,4.1c0.1,1,0.4,2.1,0.8,3.1h-9.5c-0.3-1-0.6-1.9-0.7-2.7
+		c-0.1-0.9-0.2-2.4-0.2-4.6v-10.9c0-2.7-0.4-4.6-1.3-5.7c-0.9-1.1-2.4-1.6-4.5-1.6H772v25.5h-9.4V103.8z M775.4,129.3
+		c1.9,0,3.3-0.5,4.2-1.4c0.9-1,1.4-2.6,1.4-4.8v-4.6c0-2.2-0.4-3.7-1.1-4.7c-0.8-1-2-1.4-3.6-1.4H772v17H775.4z"/>
+	<path class="st4" d="M799.9,160.2c-2.4-2.6-3.7-6.3-3.7-11.1v-31.3c0-4.8,1.2-8.4,3.7-11.1c2.4-2.6,6-3.9,10.5-3.9
+		s8.1,1.3,10.5,3.9c2.4,2.6,3.7,6.3,3.7,11.1v31.3c0,4.8-1.2,8.4-3.7,11.1c-2.4,2.6-6,3.9-10.5,3.9S802.3,162.8,799.9,160.2z
+		 M815.3,149.8v-32.5c0-3.9-1.6-5.9-4.8-5.9s-4.8,2-4.8,5.9v32.5c0,3.9,1.6,5.9,4.8,5.9S815.3,153.7,815.3,149.8z"/>
+	<path class="st4" d="M830.9,103.8H845c4.8,0,8.3,1.1,10.5,3.4c2.2,2.2,3.3,5.7,3.3,10.3v2.4c0,3.1-0.5,5.6-1.5,7.5
+		c-1,1.9-2.5,3.3-4.5,4.2v0.2c4.6,1.6,7,5.7,7,12.4v5.1c0,4.6-1.2,8.1-3.6,10.5c-2.4,2.4-5.9,3.6-10.6,3.6h-14.7V103.8z M843.9,128
+		c1.9,0,3.3-0.5,4.2-1.4c0.9-1,1.4-2.6,1.4-4.8v-3.3c0-2.2-0.4-3.7-1.1-4.7c-0.8-1-2-1.4-3.6-1.4h-4.5V128H843.9z M845.6,154.8
+		c1.6,0,2.9-0.4,3.7-1.3c0.8-0.9,1.2-2.4,1.2-4.5v-5.2c0-2.7-0.5-4.6-1.4-5.7c-0.9-1-2.5-1.6-4.6-1.6h-4.2v18.3H845.6z"/>
+	<path class="st4" d="M865.2,103.8h9.4v51H890v8.5h-24.7V103.8z"/>
+	<path class="st4" d="M894.5,103.8H920v8.5h-16.2V128h12.8v8.5h-12.8v18.3H920v8.5h-25.5V103.8z"/>
+	<path class="st4" d="M925.3,103.8h13.3l5.9,42.6h0.2l6-42.6h13.3v59.5h-8.8v-45h-0.2l-6.8,45h-7.8l-6.8-45h-0.2v45h-8.2V103.8z"/>
+	<path class="st4" d="M978.3,103.8h12.7l9.7,59.5h-9.4l-1.7-11.8v0.2H979l-1.7,11.6h-8.7L978.3,103.8z M988.5,143.6l-4.2-29.4h-0.2
+		l-4.1,29.4H988.5z"/>
+</g>
+<g class="st3">
+	<path class="st4" d="M752.8,382.1c-2.4-2.6-3.7-6.3-3.7-11.1v-31.3c0-4.8,1.2-8.4,3.7-11.1c2.4-2.6,6-3.9,10.5-3.9
+		s8.1,1.3,10.5,3.9c2.4,2.6,3.7,6.3,3.7,11.1V371c0,4.8-1.2,8.4-3.7,11.1c-2.4,2.6-6,3.9-10.5,3.9S755.3,384.7,752.8,382.1z
+		 M768.2,371.6v-32.5c0-3.9-1.6-5.9-4.8-5.9s-4.8,2-4.8,5.9v32.5c0,3.9,1.6,5.9,4.8,5.9S768.2,375.5,768.2,371.6z"/>
+	<path class="st4" d="M783.8,325.7H798c4.8,0,8.3,1.1,10.5,3.4c2.2,2.2,3.3,5.7,3.3,10.3v2.4c0,3.1-0.5,5.6-1.5,7.5
+		c-1,1.9-2.5,3.3-4.5,4.2v0.2c4.6,1.6,7,5.7,7,12.4v5.1c0,4.6-1.2,8.1-3.6,10.5c-2.4,2.4-5.9,3.6-10.6,3.6h-14.7V325.7z
+		 M796.9,349.9c1.9,0,3.3-0.5,4.2-1.4c0.9-1,1.4-2.6,1.4-4.8v-3.3c0-2.2-0.4-3.7-1.1-4.7c-0.8-1-2-1.4-3.6-1.4h-4.5v15.7H796.9z
+		 M798.6,376.7c1.6,0,2.9-0.4,3.7-1.3c0.8-0.9,1.2-2.4,1.2-4.5v-5.2c0-2.7-0.5-4.6-1.4-5.7c-0.9-1-2.5-1.6-4.6-1.6h-4.2v18.3H798.6z
+		"/>
+	<path class="st4" d="M816.1,385.2v-8.5c0.9,0.2,1.9,0.3,3.1,0.3c1.9,0,3.3-0.5,4.2-1.4c0.9-0.9,1.4-2.4,1.4-4.3v-45.6h9.4V371
+		c0,4.9-1.1,8.5-3.4,10.9c-2.2,2.4-5.7,3.6-10.2,3.6C818.7,385.5,817.3,385.4,816.1,385.2z"/>
+	<path class="st4" d="M840.7,325.7h25.5v8.5h-16.1v15.7h12.8v8.5h-12.8v18.3h16.1v8.5h-25.5V325.7z"/>
+	<path class="st4" d="M878.9,334.2h-9.8v-8.5H898v8.5h-9.8v51h-9.3V334.2z"/>
+	<path class="st4" d="M902.5,325.7h9.4v59.5h-9.4V325.7z"/>
+	<path class="st4" d="M916.4,325.7h9.4l6.1,46.2h0.2l6.1-46.2h8.6l-9,59.5h-12.4L916.4,325.7z"/>
+	<path class="st4" d="M954.1,382.1c-2.4-2.6-3.7-6.3-3.7-11.1v-31.3c0-4.8,1.2-8.4,3.7-11.1c2.4-2.6,6-3.9,10.5-3.9
+		s8.1,1.3,10.5,3.9c2.4,2.6,3.7,6.3,3.7,11.1V371c0,4.8-1.2,8.4-3.7,11.1c-2.4,2.6-5.9,3.9-10.5,3.9S956.5,384.7,954.1,382.1z
+		 M969.5,371.6v-32.5c0-3.9-1.6-5.9-4.8-5.9c-3.2,0-4.8,2-4.8,5.9v32.5c0,3.9,1.6,5.9,4.8,5.9C967.9,377.5,969.5,375.5,969.5,371.6z
+		"/>
+</g>
+<g class="st3">
+	<path class="st4" d="M745.3,581.5c-2.3-2.6-3.5-6.3-3.5-11.1V567h8.8v4.1c0,3.9,1.6,5.8,4.8,5.8c1.6,0,2.8-0.5,3.6-1.4
+		c0.8-0.9,1.2-2.5,1.2-4.5c0-2.5-0.6-4.7-1.7-6.6c-1.1-1.9-3.2-4.2-6.3-6.8c-3.9-3.4-6.5-6.5-8.1-9.2c-1.5-2.7-2.3-5.8-2.3-9.3
+		c0-4.7,1.2-8.3,3.6-10.9c2.4-2.6,5.8-3.9,10.4-3.9c4.5,0,7.9,1.3,10.2,3.9c2.3,2.6,3.4,6.3,3.4,11.1v2.5h-8.8v-3.1
+		c0-2-0.4-3.5-1.2-4.5c-0.8-0.9-2-1.4-3.5-1.4c-3.1,0-4.7,1.9-4.7,5.7c0,2.2,0.6,4.2,1.7,6c1.2,1.9,3.3,4.1,6.3,6.8
+		c3.9,3.4,6.6,6.5,8.1,9.3c1.5,2.8,2.2,6,2.2,9.8c0,4.9-1.2,8.6-3.6,11.2c-2.4,2.6-5.9,3.9-10.5,3.9
+		C751,585.4,747.6,584.1,745.3,581.5z"/>
+	<path class="st4" d="M778,581.5c-2.4-2.6-3.7-6.3-3.7-11.1v-31.3c0-4.8,1.2-8.4,3.7-11.1c2.4-2.6,6-3.9,10.5-3.9s8.1,1.3,10.5,3.9
+		c2.4,2.6,3.7,6.3,3.7,11.1v31.3c0,4.8-1.2,8.4-3.7,11.1c-2.4,2.6-6,3.9-10.5,3.9S780.4,584.1,778,581.5z M793.4,571v-32.5
+		c0-3.9-1.6-5.9-4.8-5.9s-4.8,2-4.8,5.9V571c0,3.9,1.6,5.9,4.8,5.9S793.4,574.9,793.4,571z"/>
+	<path class="st4" d="M809,525.1h9.4v51h15.4v8.5H809V525.1z"/>
+	<path class="st4" d="M841.5,581.5c-2.4-2.6-3.6-6.3-3.6-11.1v-45.4h9.4v46.1c0,2,0.4,3.5,1.2,4.4c0.8,0.9,2,1.4,3.5,1.4
+		c1.5,0,2.7-0.5,3.5-1.4c0.8-0.9,1.2-2.4,1.2-4.4v-46.1h9v45.4c0,4.8-1.2,8.5-3.6,11.1c-2.4,2.6-5.8,3.9-10.4,3.9
+		C847.3,585.4,843.9,584.1,841.5,581.5z"/>
+	<path class="st4" d="M875.3,581.6c-2.4-2.6-3.5-6.1-3.5-10.8v-32c0-4.6,1.2-8.2,3.5-10.8c2.4-2.5,5.8-3.8,10.2-3.8
+		c4.5,0,7.9,1.3,10.2,3.8c2.4,2.6,3.5,6.1,3.5,10.8v6.3h-8.8v-6.9c0-3.7-1.6-5.5-4.7-5.5c-3.1,0-4.7,1.8-4.7,5.5v33.2
+		c0,3.6,1.6,5.4,4.7,5.4c3.1,0,4.7-1.8,4.7-5.4v-9.1h8.8v8.4c0,4.6-1.2,8.2-3.5,10.8c-2.4,2.5-5.8,3.8-10.2,3.8
+		C881.1,585.4,877.7,584.1,875.3,581.6z"/>
+	<path class="st4" d="M905,525.1h9.4v59.5H905V525.1z"/>
+	<path class="st4" d="M924.3,581.5c-2.4-2.6-3.7-6.3-3.7-11.1v-31.3c0-4.8,1.2-8.4,3.7-11.1c2.4-2.6,6-3.9,10.5-3.9
+		s8.1,1.3,10.5,3.9c2.4,2.6,3.7,6.3,3.7,11.1v31.3c0,4.8-1.2,8.4-3.7,11.1c-2.4,2.6-6,3.9-10.5,3.9S926.7,584.1,924.3,581.5z
+		 M939.6,571v-32.5c0-3.9-1.6-5.9-4.8-5.9c-3.2,0-4.8,2-4.8,5.9V571c0,3.9,1.6,5.9,4.8,5.9C938,576.9,939.6,574.9,939.6,571z"/>
+	<path class="st4" d="M955.3,525.1H967l9.1,35.6h0.2v-35.6h8.3v59.5H975l-11.2-43.4h-0.2v43.4h-8.3V525.1z"/>
+</g>
+<rect x="403.3" y="191" class="st5" width="921.4" height="100.3"/>
+<text transform="matrix(1 0 0 1 403.2855 207.4729)" class="st4 st6 st7">En</text>
+<text transform="matrix(1 0 0 1 427.8855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 439.4855 207.4729)" class="st4 st6 st7">los</text>
+<text transform="matrix(1 0 0 1 467.8855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 479.4855 207.4729)" class="st4 st6 st7">últimos</text>
+<text transform="matrix(1 0 0 1 551.4855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 563.0855 207.4729)" class="st4 st6 st7">años,</text>
+<text transform="matrix(1 0 0 1 614.6855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 626.2855 207.4729)" class="st4 st6 st7">pequeños</text>
+<text transform="matrix(1 0 0 1 721.0854 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 732.6855 207.4729)" class="st4 st6 st7">productores</text>
+<text transform="matrix(1 0 0 1 849.5854 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 861.1855 207.4729)" class="st4 st6 st7">se</text>
+<text transform="matrix(1 0 0 1 883.6855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 895.2855 207.4729)" class="st4 st6 st7">han</text>
+<text transform="matrix(1 0 0 1 931.2855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 942.8855 207.4729)" class="st4 st6 st7">agrupado</text>
+<text transform="matrix(1 0 0 1 1034.8855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 1046.4855 207.4729)" class="st4 st6 st7">para</text>
+<text transform="matrix(1 0 0 1 1089.6855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 1101.2855 207.4729)" class="st4 st6 st7">satisfacer</text>
+<text transform="matrix(1 0 0 1 1196.4855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 1208.0854 207.4729)" class="st4 st6 st7">la</text>
+<text transform="matrix(1 0 0 1 1224.8855 207.4729)" class="st4 st6 st7 st8"> </text>
+<text transform="matrix(1 0 0 1 1236.4855 207.4729)" class="st4 st6 st7">creciente               </text>
+<text transform="matrix(1 0 0 1 403.2855 233.8729)" class="st4 st6 st7">demanda</text>
+<text transform="matrix(1 0 0 1 494.2855 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 504.3855 233.8729)" class="st4 st6 st7">de</text>
+<text transform="matrix(1 0 0 1 527.9855 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 538.0855 233.8729)" class="st4 st6 st7">productos</text>
+<text transform="matrix(1 0 0 1 636.1855 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 646.2855 233.8729)" class="st4 st6 st7">orgánicos.</text>
+<text transform="matrix(1 0 0 1 747.0854 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 757.2855 233.8729)" class="st4 st6 st7">Actualmente,</text>
+<text transform="matrix(1 0 0 1 883.7855 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 893.8855 233.8729)" class="st4 st6 st7">los</text>
+<text transform="matrix(1 0 0 1 922.2855 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 932.4855 233.8729)" class="st4 st6 st7">canales</text>
+<text transform="matrix(1 0 0 1 1006.8855 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 1016.9855 233.8729)" class="st4 st6 st7">de</text>
+<text transform="matrix(1 0 0 1 1040.5854 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 1050.6855 233.8729)" class="st4 st6 st7">venta</text>
+<text transform="matrix(1 0 0 1 1103.5854 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 1113.7855 233.8729)" class="st4 st6 st7">son</text>
+<text transform="matrix(1 0 0 1 1149.2855 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 1159.3855 233.8729)" class="st4 st6 st7">rudimentarios,</text>
+<text transform="matrix(1 0 0 1 1297.8855 233.8729)" class="st4 st6 st7 st9"> </text>
+<text transform="matrix(1 0 0 1 1307.9855 233.8729)" class="st4 st6 st7">la         </text>
+<text transform="matrix(1 0 0 1 403.2855 260.2729)" class="st4 st6 st7">comunicación</text>
+<text transform="matrix(1 0 0 1 539.2855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 545.1855 260.2729)" class="st4 st6 st7">es</text>
+<text transform="matrix(1 0 0 1 567.6855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 573.5855 260.2729)" class="st4 st6 st7">compleja</text>
+<text transform="matrix(1 0 0 1 662.0854 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 667.9855 260.2729)" class="st4 st6 st7">y</text>
+<text transform="matrix(1 0 0 1 678.3855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 684.2855 260.2729)" class="st4 st6 st7">la</text>
+<text transform="matrix(1 0 0 1 700.9855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 706.8855 260.2729)" class="st4 st6 st7">oferta</text>
+<text transform="matrix(1 0 0 1 764.0854 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 769.9855 260.2729)" class="st4 st6 st7">es</text>
+<text transform="matrix(1 0 0 1 792.4855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 798.3855 260.2729)" class="st4 st6 st7">poco</text>
+<text transform="matrix(1 0 0 1 846.5854 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 852.4855 260.2729)" class="st4 st6 st7">visible.</text>
+<text transform="matrix(1 0 0 1 917.7855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 923.6855 260.2729)" class="st4 st6 st7">Los</text>
+<text transform="matrix(1 0 0 1 958.7855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 964.5854 260.2729)" class="st4 st6 st7">pedidos</text>
+<text transform="matrix(1 0 0 1 1040.9855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 1046.8855 260.2729)" class="st4 st6 st7">se</text>
+<text transform="matrix(1 0 0 1 1069.3855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 1075.2855 260.2729)" class="st4 st6 st7">realizan</text>
+<text transform="matrix(1 0 0 1 1150.2855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 1156.1855 260.2729)" class="st4 st6 st7">por</text>
+<text transform="matrix(1 0 0 1 1188.0854 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 1193.9855 260.2729)" class="st4 st6 st7">whatsapp</text>
+<text transform="matrix(1 0 0 1 1288.7855 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 1294.6855 260.2729)" class="st4 st6 st7">o</text>
+<text transform="matrix(1 0 0 1 1307.0854 260.2729)" class="st4 st6 st7"> </text>
+<text transform="matrix(1 0 0 1 1312.8855 260.2729)" class="st4 st6 st7">a </text>
+<text transform="matrix(1 0 0 1 403.2855 286.6729)" class="st4 st6 st7">través</text>
+<text transform="matrix(1 0 0 1 462.5854 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 471.5855 286.6729)" class="st4 st6 st7">de</text>
+<text transform="matrix(1 0 0 1 495.1855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 504.0855 286.6729)" class="st4 st6 st7">sitios</text>
+<text transform="matrix(1 0 0 1 555.5855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 564.5855 286.6729)" class="st4 st6 st7">web</text>
+<text transform="matrix(1 0 0 1 604.6855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 613.6855 286.6729)" class="st4 st6 st7">y</text>
+<text transform="matrix(1 0 0 1 624.0855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 633.0855 286.6729)" class="st4 st6 st7">mayormente</text>
+<text transform="matrix(1 0 0 1 755.8855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 764.7855 286.6729)" class="st4 st6 st7">se</text>
+<text transform="matrix(1 0 0 1 787.2855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 796.2855 286.6729)" class="st4 st6 st7">retiran</text>
+<text transform="matrix(1 0 0 1 858.2855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 867.1855 286.6729)" class="st4 st6 st7">en</text>
+<text transform="matrix(1 0 0 1 890.6855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 899.5854 286.6729)" class="st4 st6 st7">dietéticas</text>
+<text transform="matrix(1 0 0 1 992.7855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 1001.7855 286.6729)" class="st4 st6 st7">en</text>
+<text transform="matrix(1 0 0 1 1025.1855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 1034.1855 286.6729)" class="st4 st6 st7">pesados</text>
+<text transform="matrix(1 0 0 1 1116.2855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 1125.2855 286.6729)" class="st4 st6 st7">bolsones</text>
+<text transform="matrix(1 0 0 1 1212.7855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 1221.6855 286.6729)" class="st4 st6 st7">de</text>
+<text transform="matrix(1 0 0 1 1245.2855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 1254.1855 286.6729)" class="st4 st6 st7">8</text>
+<text transform="matrix(1 0 0 1 1266.3855 286.6729)" class="st4 st6 st7 st10"> </text>
+<text transform="matrix(1 0 0 1 1275.3855 286.6729)" class="st4 st6 st7">kilos. </text>
+<rect x="399" y="416.7" class="st5" width="930" height="100.3"/>
+<text transform="matrix(1 0 0 1 398.984 432.4981)" class="st4 st6 st11">Establecer</text>
+<text transform="matrix(1 0 0 1 495.484 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 501.084 432.4981)" class="st4 st6 st11">un</text>
+<text transform="matrix(1 0 0 1 524.184 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 529.784 432.4981)" class="st4 st6 st11">contacto</text>
+<text transform="matrix(1 0 0 1 611.184 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 616.784 432.4981)" class="st4 st6 st11">que</text>
+<text transform="matrix(1 0 0 1 650.884 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 656.484 432.4981)" class="st4 st6 st11">conecte</text>
+<text transform="matrix(1 0 0 1 729.884 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 735.484 432.4981)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 751.384 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 756.984 432.4981)" class="st4 st6 st11">oferta</text>
+<text transform="matrix(1 0 0 1 811.684 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 817.284 432.4981)" class="st4 st6 st11">con</text>
+<text transform="matrix(1 0 0 1 851.384 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 856.984 432.4981)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 872.884 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 878.484 432.4981)" class="st4 st6 st11">demanda.</text>
+<text transform="matrix(1 0 0 1 970.384 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 975.984 432.4981)" class="st4 st6 st11">Generar</text>
+<text transform="matrix(1 0 0 1 1048.884 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1054.484 432.4981)" class="st4 st6 st11">un</text>
+<text transform="matrix(1 0 0 1 1077.584 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1083.1841 432.4981)" class="st4 st6 st11">espacio</text>
+<text transform="matrix(1 0 0 1 1154.884 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1160.484 432.4981)" class="st4 st6 st11">que</text>
+<text transform="matrix(1 0 0 1 1194.584 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1200.1841 432.4981)" class="st4 st6 st11">visualice</text>
+<text transform="matrix(1 0 0 1 1279.484 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1285.084 432.4981)" class="st4 st6 st11">a</text>
+<text transform="matrix(1 0 0 1 1296.2839 432.4981)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1301.884 432.4981)" class="st4 st6 st11">los </text>
+<text transform="matrix(1 0 0 1 398.984 457.6981)" class="st4 st6 st11">productores,</text>
+<text transform="matrix(1 0 0 1 514.584 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 521.884 457.6981)" class="st4 st6 st11">simplifique</text>
+<text transform="matrix(1 0 0 1 622.684 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 630.084 457.6981)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 645.984 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 653.384 457.6981)" class="st4 st6 st11">compra</text>
+<text transform="matrix(1 0 0 1 724.584 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 731.884 457.6981)" class="st4 st6 st11">y</text>
+<text transform="matrix(1 0 0 1 741.884 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 749.284 457.6981)" class="st4 st6 st11">acorte</text>
+<text transform="matrix(1 0 0 1 807.784 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 815.184 457.6981)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 831.084 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 838.484 457.6981)" class="st4 st6 st11">cadena</text>
+<text transform="matrix(1 0 0 1 905.884 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 913.184 457.6981)" class="st4 st6 st11">de</text>
+<text transform="matrix(1 0 0 1 935.7839 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 943.084 457.6981)" class="st4 st6 st11">valor,</text>
+<text transform="matrix(1 0 0 1 991.984 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 999.384 457.6981)" class="st4 st6 st11">para</text>
+<text transform="matrix(1 0 0 1 1040.584 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 1047.984 457.6981)" class="st4 st6 st11">propiciar</text>
+<text transform="matrix(1 0 0 1 1128.584 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 1135.984 457.6981)" class="st4 st6 st11">un</text>
+<text transform="matrix(1 0 0 1 1159.084 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 1166.484 457.6981)" class="st4 st6 st11">precio</text>
+<text transform="matrix(1 0 0 1 1223.2839 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 1230.6841 457.6981)" class="st4 st6 st11">más</text>
+<text transform="matrix(1 0 0 1 1271.1841 457.6981)" class="st4 st6 st11 st12"> </text>
+<text transform="matrix(1 0 0 1 1278.484 457.6981)" class="st4 st6 st11">justo. </text>
+<text transform="matrix(1 0 0 1 398.984 482.8981)" class="st4 st6 st11">Para</text>
+<text transform="matrix(1 0 0 1 441.484 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 457.284 482.8981)" class="st4 st6 st11">ofrecer</text>
+<text transform="matrix(1 0 0 1 522.684 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 538.484 482.8981)" class="st4 st6 st11">una</text>
+<text transform="matrix(1 0 0 1 572.784 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 588.684 482.8981)" class="st4 st6 st11">compra</text>
+<text transform="matrix(1 0 0 1 659.784 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 675.584 482.8981)" class="st4 st6 st11">mas</text>
+<text transform="matrix(1 0 0 1 716.084 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 731.984 482.8981)" class="st4 st6 st11">simple,</text>
+<text transform="matrix(1 0 0 1 797.084 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 812.984 482.8981)" class="st4 st6 st11">visible</text>
+<text transform="matrix(1 0 0 1 870.284 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 886.184 482.8981)" class="st4 st6 st11">y</text>
+<text transform="matrix(1 0 0 1 896.084 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 911.984 482.8981)" class="st4 st6 st11">desde</text>
+<text transform="matrix(1 0 0 1 967.584 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 983.484 482.8981)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 999.384 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 1015.2839 482.8981)" class="st4 st6 st11">comodidad</text>
+<text transform="matrix(1 0 0 1 1119.1841 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 1134.984 482.8981)" class="st4 st6 st11">de</text>
+<text transform="matrix(1 0 0 1 1157.484 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 1173.384 482.8981)" class="st4 st6 st11">nuestras</text>
+<text transform="matrix(1 0 0 1 1253.584 482.8981)" class="st4 st6 st11 st13"> </text>
+<text transform="matrix(1 0 0 1 1269.384 482.8981)" class="st4 st6 st11">casas. </text>
+<rect x="399" y="614.2" class="st5" width="930" height="100.3"/>
+<text transform="matrix(1 0 0 1 398.984 629.9995)" class="st4 st6 st11">Desarrollar</text>
+<text transform="matrix(1 0 0 1 499.084 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 511.584 629.9995)" class="st4 st6 st11">una</text>
+<text transform="matrix(1 0 0 1 545.884 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 558.284 629.9995)" class="st4 st6 st11">aplicación</text>
+<text transform="matrix(1 0 0 1 651.484 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 663.984 629.9995)" class="st4 st6 st11">para</text>
+<text transform="matrix(1 0 0 1 705.184 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 717.684 629.9995)" class="st4 st6 st11">generar</text>
+<text transform="matrix(1 0 0 1 787.884 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 800.384 629.9995)" class="st4 st6 st11">un</text>
+<text transform="matrix(1 0 0 1 823.484 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 835.884 629.9995)" class="st4 st6 st11">canal</text>
+<text transform="matrix(1 0 0 1 885.484 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 897.884 629.9995)" class="st4 st6 st11">de</text>
+<text transform="matrix(1 0 0 1 920.484 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 932.884 629.9995)" class="st4 st6 st11">venta</text>
+<text transform="matrix(1 0 0 1 983.384 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 995.884 629.9995)" class="st4 st6 st11">donde</text>
+<text transform="matrix(1 0 0 1 1053.384 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 1065.7839 629.9995)" class="st4 st6 st11">se</text>
+<text transform="matrix(1 0 0 1 1087.2839 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 1099.7839 629.9995)" class="st4 st6 st11">concentren</text>
+<text transform="matrix(1 0 0 1 1203.2839 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 1215.7839 629.9995)" class="st4 st6 st11">y</text>
+<text transform="matrix(1 0 0 1 1225.6841 629.9995)" class="st4 st6 st11 st14"> </text>
+<text transform="matrix(1 0 0 1 1238.1841 629.9995)" class="st4 st6 st11">visualicen                     </text>
+<text transform="matrix(1 0 0 1 398.984 655.1995)" class="st4 st6 st11">organizaciones</text>
+<text transform="matrix(1 0 0 1 538.684 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 542.884 655.1995)" class="st4 st6 st11">y</text>
+<text transform="matrix(1 0 0 1 552.784 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 556.984 655.1995)" class="st4 st6 st11">cooperativas</text>
+<text transform="matrix(1 0 0 1 675.584 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 679.684 655.1995)" class="st4 st6 st11">que</text>
+<text transform="matrix(1 0 0 1 713.784 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 717.884 655.1995)" class="st4 st6 st11">ofrezcan</text>
+<text transform="matrix(1 0 0 1 798.384 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 802.484 655.1995)" class="st4 st6 st11">sus</text>
+<text transform="matrix(1 0 0 1 835.284 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 839.384 655.1995)" class="st4 st6 st11">productos</text>
+<text transform="matrix(1 0 0 1 933.084 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 937.1841 655.1995)" class="st4 st6 st11">agroecológicos,</text>
+<text transform="matrix(1 0 0 1 1082.384 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1086.584 655.1995)" class="st4 st6 st11">para</text>
+<text transform="matrix(1 0 0 1 1127.7839 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1131.884 655.1995)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 1147.7839 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1151.984 655.1995)" class="st4 st6 st11">entrega</text>
+<text transform="matrix(1 0 0 1 1221.884 655.1995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1226.084 655.1995)" class="st4 st6 st11">a</text>
+<text transform="matrix(1 0 0 1 1237.2839 655.1995)" class="st4 st6 st11">  </text>
+<text transform="matrix(1 0 0 1 1245.584 655.1995)" class="st4 st6 st11">domicilio </text>
+<text transform="matrix(1 0 0 1 398.984 680.3995)" class="st4 st6 st11">o</text>
+<text transform="matrix(1 0 0 1 410.784 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 415.084 680.3995)" class="st4 st6 st11">retiros</text>
+<text transform="matrix(1 0 0 1 473.884 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 478.284 680.3995)" class="st4 st6 st11">en</text>
+<text transform="matrix(1 0 0 1 500.684 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 504.984 680.3995)" class="st4 st6 st11">punto</text>
+<text transform="matrix(1 0 0 1 558.184 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 562.484 680.3995)" class="st4 st6 st11">de</text>
+<text transform="matrix(1 0 0 1 585.084 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 589.384 680.3995)" class="st4 st6 st11">entrega.</text>
+<text transform="matrix(1 0 0 1 664.384 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 668.684 680.3995)" class="st4 st6 st11">Facilitando</text>
+<text transform="matrix(1 0 0 1 769.684 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 773.984 680.3995)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 789.984 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 794.284 680.3995)" class="st4 st6 st11">visualización</text>
+<text transform="matrix(1 0 0 1 912.184 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 916.584 680.3995)" class="st4 st6 st11">de</text>
+<text transform="matrix(1 0 0 1 939.084 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 943.384 680.3995)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 959.384 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 963.6841 680.3995)" class="st4 st6 st11">oferta,</text>
+<text transform="matrix(1 0 0 1 1022.384 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1026.6841 680.3995)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 1042.6841 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1046.984 680.3995)" class="st4 st6 st11">realización</text>
+<text transform="matrix(1 0 0 1 1145.884 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1150.1841 680.3995)" class="st4 st6 st11">de</text>
+<text transform="matrix(1 0 0 1 1172.6841 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1177.084 680.3995)" class="st4 st6 st11">la</text>
+<text transform="matrix(1 0 0 1 1192.984 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1197.2839 680.3995)" class="st4 st6 st11">compra</text>
+<text transform="matrix(1 0 0 1 1268.484 680.3995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1272.7839 680.3995)" class="st4 st6 st11">según  </text>
+<text transform="matrix(1 0 0 1 398.984 705.5995)" class="st4 st6 st11">cercanías</text>
+<text transform="matrix(1 0 0 1 487.884 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 494.384 705.5995)" class="st4 st6 st11">del</text>
+<text transform="matrix(1 0 0 1 521.584 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 527.984 705.5995)" class="st4 st6 st11">usuario</text>
+<text transform="matrix(1 0 0 1 596.484 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 602.984 705.5995)" class="st4 st6 st11">y</text>
+<text transform="matrix(1 0 0 1 612.984 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 619.384 705.5995)" class="st4 st6 st11">productor,</text>
+<text transform="matrix(1 0 0 1 713.484 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 719.984 705.5995)" class="st4 st6 st11">vinculadolos</text>
+<text transform="matrix(1 0 0 1 835.184 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 841.584 705.5995)" class="st4 st6 st11">por</text>
+<text transform="matrix(1 0 0 1 872.084 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 878.484 705.5995)" class="st4 st6 st11">geolocalización</text>
+<text transform="matrix(1 0 0 1 1020.984 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1027.484 705.5995)" class="st4 st6 st11">y</text>
+<text transform="matrix(1 0 0 1 1037.484 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1043.884 705.5995)" class="st4 st6 st11">ofreciendo</text>
+<text transform="matrix(1 0 0 1 1141.884 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1148.384 705.5995)" class="st4 st6 st11">pagos</text>
+<text transform="matrix(1 0 0 1 1205.2839 705.5995)" class="st4 st6 st11"> </text>
+<text transform="matrix(1 0 0 1 1211.7839 705.5995)" class="st4 st6 st11">electrónicos. </text>
+</svg>
